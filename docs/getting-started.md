@@ -61,6 +61,15 @@ If you are planning to use Allerta-VVF in production environments, contact me at
 
 :::
 
+:::info
+
+Allerta hasn't reached the stable version yet, especially for the initial configuration/personalization part.  
+For now, after first run, it seeds the DB with some users data.  
+There are 10 users + 1 super-admin.  
+You can login with user and password `admin` or `userN` where N is the normal user number from 1 to 10.
+
+:::
+
 ### Stopping
 When you finish testing AllertaVVF on your machine, you should use the proper procedure to stop the Docker Compose stack:
 ```bash
