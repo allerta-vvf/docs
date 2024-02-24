@@ -61,6 +61,14 @@ If you are planning to use Allerta-VVF in production environments, contact me at
 
 :::
 
+:::warning
+
+`backend` and `server` containers may be slow to start, especially the first time.  
+This is due to the fact that the server needs to wait for the database, and then seed it with some initial data.  
+Please be patient and wait for the server to be ready.
+
+:::
+
 :::info
 
 Allerta hasn't reached the stable version yet, especially for the initial configuration/personalization part.  
