@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'allerta-vvf', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  projectName: 'allerta-vvf.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -36,12 +36,12 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/allerta-vvf/docs/tree/main/',
+            'https://github.com/allerta-vvf/allerta-vvf.github.io/tree/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/allerta-vvf/docs/tree/main/',
+            'https://github.com/allerta-vvf/allerta-vvf.github.io/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
