@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkallerta_vvf=self.webpackChunkallerta_vvf||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Matteo Gheza","title":"Lead developer","url":"https://www.matteogheza.it","imageURL":"https://gravatar.com/userimage/127826853/0bed5fd18a5df7340e4ae01b92601c85.jpeg?size=256","key":"matteo","page":null,"count":1}]}')}}]);
